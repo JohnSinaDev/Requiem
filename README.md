@@ -118,7 +118,7 @@ function a:Window(w)
     local E = Instance.new("Frame")
     local F = Instance.new("UIListLayout")
     local G = Instance.new("Frame")
-    y.Name = "Top"
+    y.Name = "hwsVE5n1kx4LeNfGIubhAizQnTID1Zut"
     y.Parent = t
     y.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
     y.BorderSizePixel = 0
